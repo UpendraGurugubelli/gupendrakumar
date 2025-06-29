@@ -26,7 +26,7 @@ I believe in:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mrupguru)  
 - 📬 [Dev.to](https://dev.to/mrupguru)
-- 🛠️ [GitHub Projects](https://github.com/MrUpGuru)
+- 🛠️ [GitHub Projects](https://github.com/UpendraGurugubelli)
 
 ---
 
